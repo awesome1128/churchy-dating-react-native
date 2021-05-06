@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292974749429",
+    "firebase_url": "https://lovelysingdating.firebaseio.com",
+    "project_id": "lovelysingdating",
+    "storage_bucket": "lovelysingdating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292974749429:android:32887b93348ec5408e87bc",
+        "android_client_info": {
+          "package_name": "com.instadating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292974749429-e08c8u97tvi6mmnasvj275djnk8sasbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFpfT5AqYWnDQnwlyeY-UGe12D61LPiNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292974749429-e08c8u97tvi6mmnasvj275djnk8sasbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

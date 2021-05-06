@@ -1,0 +1,13 @@
+- https://dev-yakuza.posstree.com/en/react-native/install-on-windows/
+- install node-v12.14.1-x64
+- Need to delete npm and npm-cache folders from /Users/<name>/AppData/Roaming/
+- firebase configuration due to images guide.
+- in root directory, run commands 
+firebase login (if already logged in using not corrected one, you can logout using firebase logout)
+npm install
+cd android
+./gradlew clean or gradlew clean
+cd ..
+delete npm-cache folders from /Users/<name>/AppData/Roaming/
+react-native run-android
+- app build
